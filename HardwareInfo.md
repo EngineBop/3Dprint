@@ -99,6 +99,13 @@ The extruders each have a filament runout sensor and a stepper cooling fan.
 ## Stepper Motors
 Stepper Motor Info
 
+| Item              | In Stock | Price |
+| :---------------- | :------: | ----: |
+| Python Hat        |   True   | 23.99 |
+| SQL Hat           |   True   | 23.99 |
+| Codecademy Tee    |  False   | 19.99 |
+| Codecademy Hoodie |  False   | 42.99 |
+
 Axis	# Motors	Driver	Model #	Frame	Length	Phase Current
 X	1	TMC2100	42HS48-1304JA05-D24	NEMA 17	48 mm	1.3 A
 Y	1	THB6032S	42HS63-1504A05-D21	NEMA 17	63 mm	1.5 A

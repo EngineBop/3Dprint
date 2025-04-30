@@ -1,14 +1,21 @@
 # CreatBot D600 Pro Info
 CreatBot D600 Pro - Processes, Troubleshooting, and Parts Info
 
+
 ![Creatbot D600 Pro](Pictures/Render.png)
 
 [Official Website](https://www.creatbot.com/en/creatbot-d600.html)
 
 
 
+The reason for this documentation is to keep track of all the troubleshooting steps that were needed to fix an issue of the Z-axis of our printer not working.
 
-## Reference and layout credits:
+## [How To start a 3D Print](HowToPrint.md)
+## [Hardware Info](HardwareInfo.md)
+
+
+
+### Reference and layout credits:
 
 [kForth CreatBot-F430-Info](https://github.com/kForth/CreatBot-F430-Info)
 
