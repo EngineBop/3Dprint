@@ -2,7 +2,7 @@
 CreatBot D600 Pro - Processes, Troubleshooting, and Parts Info
 
 
-![Creatbot D600 Pro](Pictures/Render.png)
+![Creatbot D600 Pro](img/Render.png)
 
 [Official Website](https://www.creatbot.com/en/creatbot-d600.html)
 
