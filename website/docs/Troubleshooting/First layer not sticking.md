@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+---
+
+
 ## Manual Calibration with BLTouch Sensor (Marlin Firmware) – Dual Nozzle Printer
 
 1. **Home the Printer**

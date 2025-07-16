@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # CreatBot D600 Pro Info
 CreatBot D600 Pro - Processes, Troubleshooting, and Parts Info
 
@@ -10,8 +14,8 @@ CreatBot D600 Pro - Processes, Troubleshooting, and Parts Info
 
 The reason for this documentation is to keep track of all the troubleshooting steps that were needed to fix an issue of the Z-axis of our printer not working.
 
-## [How To start a 3D Print](HowToPrint.md)
-## [Hardware Info](HardwareInfo.md)
+## [How To start a 3D Print](/How To Print/HowToPrint.md)
+## [Hardware Info](/Hardware Info/HardwareInfo.md)
 
 
 

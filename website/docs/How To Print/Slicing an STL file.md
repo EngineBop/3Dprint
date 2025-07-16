@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 ## Basic Considerations When Slicing an STL File
 
 - **Layer Height:** Determines print resolution and speed; lower values give finer detail.

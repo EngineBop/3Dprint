@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+---
+
+
 1. Prepare the STL File
 
 2. Obtain or design your 3D model in STL format.

@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 ## Firmware
 
 The CreatBot firmware is a custom version of the popular Marlin firmware. Our D600 shipped with CreatBot Firmware v5.5, based off of Marlin v1.1.6.

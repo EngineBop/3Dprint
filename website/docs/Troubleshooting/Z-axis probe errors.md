@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 ## BLTouch Sensor Error Lights and Common Problems
 
 ### Error Lights
